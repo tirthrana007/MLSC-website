@@ -4,6 +4,7 @@ import globe from 'vanta/src/vanta.globe'
 import styles from './Home.module.css'
 import About from './About'
 // import Gallery from '../layouts/Gallery'
+import { FlipWords } from '../components/FlipWords';
 import CounterUp from '../components/CounterUp'
 // import { SliderData } from '../utils/data'
 

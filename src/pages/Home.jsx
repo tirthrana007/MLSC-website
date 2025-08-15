@@ -31,7 +31,13 @@ const Home = () => {
         <div className={styles.home_content}>
           <div className={styles.hero_title}>
             <h1>MLSC <span>VCET</span></h1>
-            <p>for the love of coding and innovation</p>
+            <p>for the love of </p>
+            <div>
+ <FlipWords
+  words={["Coding", "Innovation"]}
+  duration={3000}
+  className="font-bold text-white text-5xl sm:text-7xl lg:text-[10rem]"
+/>
           </div>
         </div>
       </div>

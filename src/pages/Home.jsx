@@ -3,8 +3,11 @@ import Footer from "../layouts/Footer"
 import globe from 'vanta/src/vanta.globe'
 import styles from './Home.module.css'
 import About from './About'
-// import Gallery from '../layouts/Gallery'
 import { FlipWords } from '../components/FlipWords';
+
+ 
+
+// import Gallery from '../layouts/Gallery'
 import CounterUp from '../components/CounterUp'
 // import { SliderData } from '../utils/data'
 
@@ -37,8 +40,11 @@ const Home = () => {
  <FlipWords
   words={["Coding", "Innovation"]}
   duration={3000}
-  className="font-bold text-white text-5xl sm:text-7xl lg:text-[10rem]"
-/>
+  className="font-bold text-white text-5xl sm:text-7xl lg:text-[10rem]"/>
+
+
+
+          </div>
           </div>
         </div>
       </div>

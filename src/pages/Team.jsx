@@ -166,10 +166,11 @@ const Team = () => {
                 </h2>
             <div className="grid xl:grid-cols-3 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-3">
           
-              {/* <div id="LEADS" className="sm:flex flex lg:py-0 sm:py-10 py-4">
+             {<div id="LEADS" 
+              className="absolute -top-20">
                
-             </div> */}
-              {renderCards("lead")}
+             </div> }
+              {renderCards("LEADS")}
               <div
                 id="Corporate"
                 className="sm:flex flex lg:py-0 sm:py-10 py-4"

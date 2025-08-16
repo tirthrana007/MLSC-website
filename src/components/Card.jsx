@@ -9,11 +9,11 @@ function Card({ name, imgSrc, githubUrl, linkedinUrl, role }) {
             className="aspect-square"
             style={{ width: "100%", overflow: "hidden" }}
           >
-            <img
-              src={imgSrc}
-              style={{ width: "100%", height: "100%", objectFit: "cover" }}
-              alt={name}
-            />
+              <img
+  src={imgSrc}
+  alt={name}
+  className="card-img w-full h-full object-cover"
+/>
           </div>
         </div>
         <h2 className="my-3 font-sans xl:text-2xl text-xl font-semibold text-black">

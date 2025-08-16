@@ -2,7 +2,7 @@ import Card from "../components/Card";
 import "../pages/Team.css";
 import teamData from "../utils/data.json";
 import { useState } from "react";
-
+import Footer from "../layouts/Footer"
 const Team = () => {
   const [selectedSection, setSelectedSection] = useState(null);
   const [showAppDropdown, setShowAppDropdown] = useState(false);
@@ -216,6 +216,7 @@ const Team = () => {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 };

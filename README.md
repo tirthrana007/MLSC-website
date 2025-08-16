@@ -11,7 +11,8 @@ Demo video link - https://drive.google.com/file/d/1bknY547-n4w_PaswVMQzERe_-KIzo
 
  changes done in the project -
 
- 1) In landing page - Added FlipWords (Code and innovation) highlighting the words and catching attention of the Viewer
- 2) In Team Section - Fixed the LEADS button which will now scroll to LEADS Section helping in navigating Easily to Top or to LEADS section
- 3) In Works Section - After Clicking Know more button the text and background color contrast fix which will now easily see the text and improving UX and added close button effect.
+ 1) In landing page - Added FlipWords (Code and innovation) highlighting the words and catching attention of the Viewer.
+ 2) In Team Section - Fixed the LEADS button which will now scroll to LEADS Section helping in navigating Easily to Top or to LEADS section.
+ 3) In Team Section - Added the Hover Effect When cursor hovers to images resuting in Enlarging/zooming the Image. 
+ 4) In Works Section - After Clicking Know more button the text and background color contrast fix which will now easily see the text and improving UX and added close button effect.
     

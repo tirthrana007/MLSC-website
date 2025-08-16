@@ -118,3 +118,5 @@ The MLSC VCET Website is actively maintained and developed by the following cont
 
 Feel free to contact the maintainers for support, bug reports, or contributions to the project. We appreciate your interest and collaboration!
 
+
+Demo video link - https://drive.google.com/file/d/1bknY547-n4w_PaswVMQzERe_-KIzoy29/view?usp=drive_link
